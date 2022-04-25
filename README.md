@@ -14,3 +14,8 @@ d2l-zh(动手学深度学习)tensorflow2.0的代码实现.
 ### 英文版[Dive into Deep Learning](https://d2l.ai/)
 项目地址: https://github.com/d2l-ai/d2l-en        
 此为加州大学伯克利分校 2019 年春学期 Introduction to Deep Learning (STAT 157)课程教材。
+
+
+# PS:
+此项目官方已出2.0版本，请移步：https://courses.d2l.ai/zh-v2/
+后续此仓库作为个人的学习笔记了（啥时候更新？得等我重新踏入此领域）
